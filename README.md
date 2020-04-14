@@ -7,3 +7,9 @@ Eu sou Rodrigo Silva, psicologo e estudante de Sistemas de Informação, gosto d
 Gosto de Programar em:
 
 -JavaScript
+-Pyton
+
+## Hobbies
+
+-Asistir series
+-Escrever
